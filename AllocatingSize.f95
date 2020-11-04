@@ -26,7 +26,7 @@ program AllocatingSize
     Character*20 :: defChar = "Hello Binayak"
     
 !Logical Data Type Defination
-    Logical(kind = 8) :: defLog=.TRUE.
+    Logical(kind = 32) :: defLog=.TRUE.
     
     !============================================================!
      !   !huge() defines the largest value that can be stored   |
